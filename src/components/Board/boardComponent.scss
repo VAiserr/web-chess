@@ -1,0 +1,14 @@
+.board {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  width: 512px;
+  height: 512px;
+  margin: 0 auto;
+  .chess-row {
+    display: flex;
+  }
+  .chess-row:nth-child(odd) .cell:nth-child(odd),
+  .chess-row:nth-child(even) .cell:nth-child(even) {
+    background-color: #666;
+  }
+}

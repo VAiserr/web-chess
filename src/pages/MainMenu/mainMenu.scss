@@ -1,0 +1,44 @@
+.main-menu {
+    
+}
+
+a,a:visited{
+    text-decoration: none;
+    display: block;
+}
+
+.menu-form {
+    width: 75vw;
+    max-width: 720px;
+    min-width: 320px;
+    background-color: #1b1b1b;
+    color: #f5f6f7;
+    border: #666 2px solid;
+    border-radius: 2px;
+    padding: 10px 10px;
+    fieldset {
+        border: none;
+        margin: 0 10px 15px;
+        padding: 5px 0;
+        border-bottom: 1px groove;
+        &:last-of-type {
+            border: none;
+        }
+    }
+    .field-input {
+        margin: 10px 0 0 0;
+        padding: 0 5px;
+        font-size: 1em;
+        min-height: 2em;
+        width: 100%;
+        min-width: 320px;
+        background-color: #1b1b1b;
+        border: #666 2px solid;
+        border-radius: 8px;
+        color: #f5f6f7;
+        &.btn:hover {
+            background-color: #313131;
+            cursor: pointer;
+        }
+    }
+}

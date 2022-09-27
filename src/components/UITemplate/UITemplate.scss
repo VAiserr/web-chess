@@ -1,0 +1,20 @@
+.menu-form {
+    width: 75vw;
+    max-width: 720px;
+    min-width: 320px;
+    background-color: #1b1b1b;
+    color: #f5f6f7;
+    border: #666 2px solid;
+    border-radius: 2px;
+    padding: 10px 10px;
+    fieldset {
+        border: none;
+        margin: 0 10px 15px;
+        padding: 5px 0;
+        border-bottom: 1px groove;
+        &:last-of-type {
+            border: none;
+        }
+    }
+    
+}

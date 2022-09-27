@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11f8f9ac.css",
+    "main.js": "/static/js/main.dc11e213.js",
+    "static/js/787.9410436c.chunk.js": "/static/js/787.9410436c.chunk.js",
+    "static/media/Chess_kdt45.svg": "/static/media/Chess_kdt45.6c8cc8fabe5215cc854dec67ee7781fd.svg",
+    "static/media/Chess_klt45.svg": "/static/media/Chess_klt45.5d58f1999749c1b5ef5bc1699c38b2f7.svg",
+    "index.html": "/index.html",
+    "main.11f8f9ac.css.map": "/static/css/main.11f8f9ac.css.map",
+    "main.dc11e213.js.map": "/static/js/main.dc11e213.js.map",
+    "787.9410436c.chunk.js.map": "/static/js/787.9410436c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f8f9ac.css",
+    "static/js/main.dc11e213.js"
+  ]
+}
